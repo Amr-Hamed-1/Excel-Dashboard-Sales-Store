@@ -15,7 +15,7 @@ The dashboard is fully interactive using slicers, while maintaining a locked lay
 This page shows monthly **Net Revenue vs. Target** for each store branch.  
 Users can filter the data using slicers for **month** and **branch** to get a clear overview of performance.
 
-![Store Target Vs Revenue](Store%20Target%20Vs%20Revenue.png)
+![Store Target Vs Revenue](Dashboard%20screen%20png/Store%20Target%20Vs%20Revenue.png)
 
 ---
 
@@ -23,7 +23,7 @@ Users can filter the data using slicers for **month** and **branch** to get a cl
 
 This page displays individual **employee sales**, with a comparison between **weekdays** and **weekends** to analyze selling patterns.
 
-![Time Firm](Time%20Firm.PNG)
+![Time Firm](Dashboard%20screen%20png/Time%20Firm.PNG)
 
 ---
 
